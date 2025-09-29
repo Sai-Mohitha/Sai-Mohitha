@@ -7,10 +7,7 @@
 
 - 💬 Ask me about **Python, Django, FRONT-END**
 
-- 📫 How to reach me **ch.mohitha1999@gamil.com**
-
-- 📄 Know about my experiences [file:///C:/Users/chnik/Downloads/Mohitha%20sai%20Resume.pdf](file:///C:/Users/chnik/Downloads/Mohitha%20sai%20Resume.pdf)
-
+- 📫 How to reach me **ch.mohitha1999@gamil.com**         
 - ⚡ Fun fact **I Like Editing also**
 
 <h3 align="left">Connect with me:</h3>
