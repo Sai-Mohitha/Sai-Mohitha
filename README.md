@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django, FRONT-END**
 
-- 📫 How to reach me **ch.mohitha1999@gamil.com**         
+- 📫 How to reach me **ch.mohitha909@gamil.com**         
 - ⚡ Fun fact **I Like Editing also**
 
 <h3 align="left">Connect with me:</h3>
